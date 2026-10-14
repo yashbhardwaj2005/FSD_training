@@ -1,0 +1,24 @@
+{
+  "products": [
+    {"id":1,"name":"Mascara","price":299,"category":"Eye Makeup","image":"https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=500&q=80"},
+    {"id":2,"name":"Eyeshadow Palette","price":499,"category":"Eye Makeup","image":"https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=500&q=80"},
+    {"id":3,"name":"Lipstick","price":199,"category":"Lip Makeup","image":"https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=500&q=80"},
+    {"id":4,"name":"Face Cream","price":349,"category":"Skincare","image":"https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=500&q=80"},
+    {"id":5,"name":"Makeup Brush Set","price":599,"category":"Makeup Tools","image":"https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=500&q=80"},
+    {"id":6,"name":"Perfume","price":799,"category":"Fragrance","image":"https://images.unsplash.com/photo-1541643600914-78b084683601?auto=format&fit=crop&w=500&q=80"},
+    {"id":7,"name":"Skincare Serum","price":449,"category":"Skincare","image":"https://images.unsplash.com/photo-1601049541289-9b1b7bbbfe19?auto=format&fit=crop&w=500&q=80"},
+    {"id":8,"name":"Face Powder","price":249,"category":"Face Makeup","image":"https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=500&q=80"},
+    {"id":9,"name":"Moisturizer","price":399,"category":"Skincare","image":"https://images.unsplash.com/photo-1571781926291-c477ebfd024b?auto=format&fit=crop&w=500&q=80"},
+    {"id":10,"name":"Sunglasses","price":699,"category":"Accessories","image":"https://images.unsplash.com/photo-1511499767150-a48a237f0083?auto=format&fit=crop&w=500&q=80"},
+    {"id":11,"name":"Nail Polish","price":149,"category":"Nail Care","image":"https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&fit=crop&w=500&q=80"},
+    {"id":12,"name":"Beauty Essentials","price":549,"category":"Beauty","image":"https://images.unsplash.com/photo-1598440947619-2c35fc9aa908?auto=format&fit=crop&w=500&q=80"},
+    {"id":13,"name":"Foundation","price":399,"category":"Face Makeup","image":"https://images.unsplash.com/photo-1526045478516-99145907023c?auto=format&fit=crop&w=500&q=80"},
+    {"id":14,"name":"Lip Gloss","price":179,"category":"Lip Makeup","image":"https://images.unsplash.com/photo-1586495777744-4413f21062fa?auto=format&fit=crop&w=500&q=80"},
+    {"id":15,"name":"Face Cleanser","price":299,"category":"Skincare","image":"https://images.unsplash.com/photo-1556229010-6c3f2c9ca5f8?auto=format&fit=crop&w=500&q=80"},
+    {"id":16,"name":"Beauty Kit","price":899,"category":"Beauty","image":"https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&fit=crop&w=500&q=80"},
+    {"id":17,"name":"Hair Care","price":349,"category":"Hair Care","image":"https://images.unsplash.com/photo-1527799820374-dcf8d9d4a388?auto=format&fit=crop&w=500&q=80"},
+    {"id":18,"name":"Hand Cream","price":199,"category":"Skincare","image":"https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?auto=format&fit=crop&w=500&q=80"},
+    {"id":19,"name":"Makeup Kit","price":699,"category":"Makeup Tools","image":"https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=500&q=80"},
+    {"id":20,"name":"Luxury Fragrance","price":999,"category":"Fragrance","image":"https://images.unsplash.com/photo-1594035910387-fea47794261f?auto=format&fit=crop&w=500&q=80"}
+  ]
+}
